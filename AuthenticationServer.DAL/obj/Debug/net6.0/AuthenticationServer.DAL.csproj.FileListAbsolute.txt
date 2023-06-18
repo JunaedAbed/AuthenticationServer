@@ -1,0 +1,14 @@
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\bin\Debug\net6.0\AuthenticationServer.DAL.deps.json
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\bin\Debug\net6.0\AuthenticationServer.DAL.runtimeconfig.json
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\bin\Debug\net6.0\AuthenticationServer.DAL.dll
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\bin\Debug\net6.0\AuthenticationServer.DAL.pdb
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\obj\Debug\net6.0\AuthenticationServer.DAL.csproj.AssemblyReference.cache
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\obj\Debug\net6.0\AuthenticationServer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\obj\Debug\net6.0\AuthenticationServer.DAL.AssemblyInfoInputs.cache
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\obj\Debug\net6.0\AuthenticationServer.DAL.AssemblyInfo.cs
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\obj\Debug\net6.0\AuthenticationServer.DAL.csproj.CoreCompileInputs.cache
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\obj\Debug\net6.0\AuthenticationServer.DAL.dll
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\obj\Debug\net6.0\refint\AuthenticationServer.DAL.dll
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\obj\Debug\net6.0\AuthenticationServer.DAL.pdb
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\obj\Debug\net6.0\AuthenticationServer.DAL.genruntimeconfig.cache
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.DAL\obj\Debug\net6.0\ref\AuthenticationServer.DAL.dll

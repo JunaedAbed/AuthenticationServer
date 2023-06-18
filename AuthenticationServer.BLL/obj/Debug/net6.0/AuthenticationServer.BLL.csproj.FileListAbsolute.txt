@@ -1,0 +1,15 @@
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\bin\Debug\net6.0\AuthenticationServer.BLL.deps.json
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\bin\Debug\net6.0\AuthenticationServer.BLL.dll
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\bin\Debug\net6.0\AuthenticationServer.BLL.pdb
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\bin\Debug\net6.0\AuthenticationServer.DAL.dll
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\bin\Debug\net6.0\AuthenticationServer.DAL.pdb
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\obj\Debug\net6.0\AuthenticationServer.BLL.csproj.AssemblyReference.cache
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\obj\Debug\net6.0\AuthenticationServer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\obj\Debug\net6.0\AuthenticationServer.BLL.AssemblyInfoInputs.cache
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\obj\Debug\net6.0\AuthenticationServer.BLL.AssemblyInfo.cs
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\obj\Debug\net6.0\AuthenticationServer.BLL.csproj.CoreCompileInputs.cache
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\obj\Debug\net6.0\AuthenticationServer.BLL.csproj.CopyComplete
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\obj\Debug\net6.0\AuthenticationServer.BLL.dll
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\obj\Debug\net6.0\refint\AuthenticationServer.BLL.dll
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\obj\Debug\net6.0\AuthenticationServer.BLL.pdb
+D:\Code Projects\AuthenticationServer.API\AuthenticationServer.BLL\obj\Debug\net6.0\ref\AuthenticationServer.BLL.dll
